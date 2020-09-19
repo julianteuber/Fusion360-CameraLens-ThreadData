@@ -28,4 +28,27 @@
       </Thread>
     </Designation>
   </ThreadSize>
+  <ThreadSize>
+    <Size>40.8</Size>
+    <Designation>
+      <ThreadDesignation>M40.5x0.75(3DP)</ThreadDesignation>
+      <CTD>M40.5x0.75(3DP)</CTD>
+      <Pitch>0.75</Pitch>
+      <Thread>
+        <Gender>external</Gender>
+        <Class>6g</Class>
+        <MajorDia>40.8000</MajorDia>
+        <PitchDia>40.3781</PitchDia>
+        <MinorDia>39.9881</MinorDia>
+      </Thread>
+      <Thread>
+        <Gender>internal</Gender>
+        <Class>6H</Class>
+        <MajorDia>40.8000</MajorDia>
+        <PitchDia>40.3781</PitchDia>
+        <MinorDia>39.9881</MinorDia>
+        <TapDrill>39.9881</TapDrill>
+      </Thread>
+    </Designation>
+  </ThreadSize>
 </ThreadType>
